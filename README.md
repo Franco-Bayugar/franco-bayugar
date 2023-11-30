@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Franco-Bayugar/franco-bayugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Franco Bayugar
 
-Here are some ideas to get you started:
+**Back-end** developer with 1 year of experience. I am currently studying for a degree in Programmer Analyst at the National University of La Plata (UNLP), Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 💻
+
+➜ **Python**\
+➜ **Flask**\
+➜ **MySQL**\
+➜ **Docker**\
+➜ **Kubernates**
+
+## Projects ⚙️
+
+**Client Management System**
+
+A Client Management System developed with **Python** and **Flask** for the *backend*, **MySQL** for *data storage*, and a *frontend* crafted using **HTML**, **CSS**, and **JavaScript**. The system empowers users with seamless **CRUD** (Create, Read, Update, Delete) capabilities for managing client records.
+
+➡️ https://github.com/Franco-Bayugar/client-management-system
+
+
+
+
