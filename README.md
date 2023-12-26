@@ -6,6 +6,7 @@
 ## Skills 💻
 
 ➜ **Python**\
+➜ **Django**\
 ➜ **Flask**\
 ➜ **MySQL**\
 ➜ **Docker**\
@@ -13,12 +14,13 @@
 
 ## Projects ⚙️
 
-**Client Management System**
+👉**Client Management System**
 
-A Client Management System developed with **Python** and **Flask** for the *backend*, **MySQL** for *data storage*, and a *frontend* crafted using **HTML**, **CSS**, and **JavaScript**. The system empowers users with seamless **CRUD** (Create, Read, Update, Delete) capabilities for managing client records.
+A Client Management System developed with **Python** and **Flask** for the *backend*, **MySQL** for *data storage*, and a *frontend* crafted using a bit of **HTML**, **CSS**, and **JavaScript**. 
+
+This app empowers users with **CRUD** (Create, Read, Update, Delete) capabilities for managing client records. 
 
 ➡️ https://github.com/Franco-Bayugar/client-management-system
 
 
-
-
+👉**Blog-App**
