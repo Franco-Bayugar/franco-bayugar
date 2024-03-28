@@ -7,10 +7,8 @@
 
 ➜ **Python**\
 ➜ **Django**\
-➜ **Flask**\
 ➜ **MySQL**\
-➜ **Docker**\
-➜ **Kubernates**
+➜ **PostgreSQL **\
 
 ## Projects ⚙️
 
