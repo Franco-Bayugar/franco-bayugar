@@ -8,7 +8,7 @@
 ➜ **Python**\
 ➜ **Django**\
 ➜ **MySQL**\
-➜ **PostgreSQL **\
+➜ **PostgreSQL**\
 
 ## Projects ⚙️
 
