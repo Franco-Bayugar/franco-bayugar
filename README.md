@@ -12,6 +12,14 @@
 
 ## Projects ⚙️
 
+👉**Critical Frog**
+
+**-----{ on process }-----**
+My main project. A blog-alike app to write series reviews developed with Django.
+
+➡️ https://github.com/Franco-Bayugar/critical-frog
+
+
 👉**Client Management System**
 
 A Client Management System developed with **Python** and **Flask** for the *backend*, **MySQL** for *data storage*, and a *frontend* crafted using a bit of **HTML**, **CSS**, and **JavaScript**. 
@@ -21,8 +29,4 @@ This app empowers users with **CRUD** (Create, Read, Update, Delete) capabilitie
 ➡️ https://github.com/Franco-Bayugar/client-management-system
 
 
-👉**Blog-App**
 
-**-----{on process}-----**
-
-➡️ https://github.com/Franco-Bayugar/django-app
