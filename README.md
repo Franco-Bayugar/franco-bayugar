@@ -14,8 +14,9 @@
 
 👉**Critical Frog**
 
-**-----{ on process }-----**
-My main project. A blog-alike app to write series reviews developed with Django.
+My main project. A blog-alike app to **CRUD** posts (as reviews), you can also create and Login as an user.
+
+Developed with **Django** Framework, **SQLite3** as *database*, and a *frontend* using **HTML** and **Bootstrap**.
 
 ➡️ https://github.com/Franco-Bayugar/critical-frog
 
