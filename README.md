@@ -3,13 +3,6 @@
 
 **Back-end** developer with 1 year of experience. I am currently studying for a degree in Programmer Analyst at the National University of La Plata (UNLP), Argentina.
 
-## Skills 💻
-
-➜ **Python**\
-➜ **Django**\
-➜ **MySQL**\
-➜ **PostgreSQL**
-
 ## Projects ⚙️
 
 👉**Critical Frog**
